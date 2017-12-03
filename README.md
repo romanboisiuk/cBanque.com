@@ -7,3 +7,6 @@ get_proxy() function searching active IP from proxylists
 get_html() getting html from all url 
 
 parse() is a function that parse and store data in db
+
+Used Libraries:requests, psycopg2, BeautifulSoup, sqlalchemy
+
